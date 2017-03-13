@@ -1,0 +1,11 @@
+.DS_Store
+Library
+Temp
+OSXBuild
+WindowsBuild
+iOSBuild
+*.csproj
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
