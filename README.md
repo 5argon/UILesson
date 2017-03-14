@@ -6,6 +6,9 @@ A Unity project which you can use/hack to learn the basics of UI animation. I ha
 
 Probably require Unity v5.5+ because one student in the class could not open the scene in 5.3
 
+## Live demo
+[5argon.info/uilesson](http://5argon.info/uilesson)
+
 ## What is included
 
 There are 2 scenes : GameplayScene and Menu.
